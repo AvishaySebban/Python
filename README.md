@@ -1,12 +1,6 @@
-<<<<<<< HEAD
+
 An Introduction to Flask
 ========================
-
-This repository contains the software that accompanies my O'Reilly training video [An Introduction to Flask](http://bit.ly/flaskintro).
-
-[![An Introduction to Flask](http://img.youtube.com/vi/Hzg16-4k-Kk/0.jpg)](http://bit.ly/flaskintro)
-
-Instructions on how to use these examples is included in the appropriate segments of the class.
 
 Contents
 --------
@@ -40,6 +34,3 @@ If you want to have an idea of the contents of this class, below is a list of th
 - **9a**: Production mode change to send emails to administrators when a crash occurs.
 - **9b**: Example application to deploy to Heroku.
 - **9c**: Example application to deploy to a Linux server.
-=======
-# Python
->>>>>>> 80016a219c1a66ff2d243303f451a8df851e7c30
