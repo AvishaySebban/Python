@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 An Introduction to Flask
 ========================
 
@@ -39,3 +40,6 @@ If you want to have an idea of the contents of this class, below is a list of th
 - **9a**: Production mode change to send emails to administrators when a crash occurs.
 - **9b**: Example application to deploy to Heroku.
 - **9c**: Example application to deploy to a Linux server.
+=======
+# Python
+>>>>>>> 80016a219c1a66ff2d243303f451a8df851e7c30
